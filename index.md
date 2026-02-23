@@ -1,3 +1,3 @@
 ---
-redirect_to: /literatuurstudie%20deel%201.html
+redirect_to: /literatuurstudie%20deel%201.md
 ---
