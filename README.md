@@ -1,2 +1,0 @@
-# Eindproject-Propeller-goniometrie
-Literatuurstudie
