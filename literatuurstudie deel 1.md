@@ -1,3 +1,9 @@
+---
+layout: page
+title: Literatuurstudie deel 1
+permalink: /literatuurstudie-deel-1/
+---
+
 # Inhoudstafel
 
 [Inhoudstafel [1](#_Toc215433070)](#_Toc215433070)
@@ -833,3 +839,4 @@ effect (zoals gevraagd door leerkrachten).</td>
 </tr>
 </tbody>
 </table>
+
