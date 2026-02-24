@@ -1,3 +1,6 @@
 remote_theme: andrewhwanpark/dark-poole
 plugins:
-- jekyll-remote-theme
+  - jekyll-remote-theme
+
+url: "https://f-3-r-r-3.github.io"
+baseurl: "/Eindproject-Propeller-goniometrie"
