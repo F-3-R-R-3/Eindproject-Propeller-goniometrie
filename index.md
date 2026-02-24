@@ -1,3 +1,4 @@
 ---
-redirect_to: /literatuurstudie%20deel%201.md
+layout: home
+title: Home
 ---
