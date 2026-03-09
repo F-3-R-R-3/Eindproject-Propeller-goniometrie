@@ -4,3 +4,9 @@ plugins:
 
 url: "https://f-3-r-r-3.github.io"
 baseurl: "/Eindproject-Propeller-goniometrie"
+nav:
+  - title: Hoofdpagine
+    url: /
+
+  - title: literatuurstudie-deel-1
+    url: /literatuurstudie-deel-1/
